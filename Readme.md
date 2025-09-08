@@ -7,13 +7,13 @@
 ## 📝 Overview
 - Designed a deep learning pipeline to detect folds, tears, and dimension mismatches in AED currency notes. The system integrates computer vision and OCR to ensure high accuracy in currency verification, supporting enterprise-scale operations.
 
-##⚡ Key Contributions
+## ⚡ Key Contributions
 - Developed CNN-based detection models using MobileNetV2.
 - Integrated texture analysis (LBP), HSV-based filtering, and denomination recognition for multi-class detection.
 - Optimized preprocessing and augmentation pipelines to improve model generalization.
 - Deployed solution on AWS for real-time currency validation.
 
-##📊 Impact / Results
+## 📊 Impact / Results
 - Achieved 95% accuracy in detecting currency damage.
 - Reduced manual inspection effort and improved operational efficiency.
 - Enabled scalable AI-driven currency verification for enterprise deployment.
